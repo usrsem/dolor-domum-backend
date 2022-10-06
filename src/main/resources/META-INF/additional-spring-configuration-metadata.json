@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "telegram.toChatIds",
+      "type": "java.util.List",
+      "description": "Collection of ids of message recievers"
+    },
+    {
+      "name": "telegram.botToken",
+      "type": "java.lang.String",
+      "description": "Token of telegram bot, that sends messages"
+    }
+  ] }
